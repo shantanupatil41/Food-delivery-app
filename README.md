@@ -47,6 +47,6 @@ This is a full-stack food delivery application built using the MERN stack (Mongo
 6. Open a pull request.
 
 ## Contact
-- **Name**: shantanu Dagadu Patil
+- **Name**: Shantanu Dagadu Patil
 - **Email**: shantanupatil.it2003@gmail.com
 - **GitHub**: github.com/shantanupatil41
